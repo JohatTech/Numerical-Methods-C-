@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C++ Numerical Methods and data analysis.cpp">
+    <ClCompile Include="BisectionMethod.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
